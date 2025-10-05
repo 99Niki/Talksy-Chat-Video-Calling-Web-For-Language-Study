@@ -14,7 +14,6 @@ import Layout from "./components/Layout.jsx";
 import { useThemeStore } from './store/useThemeStore.js';
 import NotificationPage from './pages/NotificationsPage.jsx';
 
-
 const App = () => {
 
   const {isLoading, authUser}= useAuthUser();
@@ -71,8 +70,9 @@ const App = () => {
       <Route path="/onboarding" element={isAuthenticated ? (
         !isOnboarded ? <OnboardingPage /> :  <Navigate to="/" />
         ) : <Navigate to="/login" />}  />
-    </Routes>
 
+    </Routes>
+    
     <Toaster />
 
     </div>
