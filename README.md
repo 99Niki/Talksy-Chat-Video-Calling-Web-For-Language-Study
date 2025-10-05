@@ -31,9 +31,16 @@ cd Talksy-Chat-Video-Calling-Web-For-Language-Study
 npm run build
 ```
 
-3. Set up environment variables (both frontend & backend)
+3. Set up environment variables
+- JWT_SECRET_KEY
+- MONGO_URI
+- PORT
+- STEM_API_KEY
+- STEM_API_SECRET
+- VITE_STEAM_API_KEY
 
-4. Start Command
+
+5. Start Command
 ```bash
 npm run start
 ```
