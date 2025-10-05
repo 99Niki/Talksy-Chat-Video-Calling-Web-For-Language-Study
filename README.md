@@ -59,30 +59,3 @@ npm run start
 | **Home Page** (with Theme Option) | <img width="600" alt="HomePage with Change Theme" src="https://github.com/user-attachments/assets/e8f4b91b-6d4e-4ab3-86b7-5c8f9fd73475" /> |
 | **Chat Page** | <img width="600" alt="ChatPage" src="https://github.com/user-attachments/assets/fe0f3c32-8e67-435f-9656-3fbf9a9c0f1b" /> |
 | **Video Call Page** | <img width="600" alt="VideoCallPage" src="https://github.com/user-attachments/assets/e6421147-3162-4775-852a-825cfe057358" /> |
-
-
-## Pages:
-# SignInPage(register an account):
-<img width="1119" height="710" alt="signInPage" src="https://github.com/user-attachments/assets/13cad272-1607-44f1-88e4-17d77cba5c75" />
-# OnboardingPage:
-<img width="778" height="672" alt="OnboardingPage" src="https://github.com/user-attachments/assets/9208dbcb-3fb2-4cc5-ae93-29bb23467907" />
-# LogInPage:
-<img width="1257" height="725" alt="LogInPage" src="https://github.com/user-attachments/assets/e3001e4b-07d3-4d33-974f-718588664165" />
-# HomePage:
-<img width="1503" height="776" alt="HomePage" src="https://github.com/user-attachments/assets/9f4e24f7-bbda-40e1-bbd0-46e43f0cab34" />
-# NotificationsPage:
-<img width="1507" height="769" alt="NotificationsPage" src="https://github.com/user-attachments/assets/f5f6b29d-1300-4238-948d-e62fab97f41f" />
-# NotificationsPage-Accpeted:
-<img width="1511" height="775" alt="Notifications(Accepted)" src="https://github.com/user-attachments/assets/6e1485b6-b167-484d-87f6-d3c3054eb652" />
-# HomePage with Theme Option:
-<img width="1509" height="768" alt="HomePage with Change Theme" src="https://github.com/user-attachments/assets/e8f4b91b-6d4e-4ab3-86b7-5c8f9fd73475" />
-# ChatPage:
-<img width="1332" height="774" alt="ChatPage" src="https://github.com/user-attachments/assets/fe0f3c32-8e67-435f-9656-3fbf9a9c0f1b" />
-# VideoCallPage:
-<img width="788" height="520" alt="VideoCallPage" src="https://github.com/user-attachments/assets/e6421147-3162-4775-852a-825cfe057358" />
-
-
-
-
-
-
