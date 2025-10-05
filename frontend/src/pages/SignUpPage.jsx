@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import {Spotlight} from "lucide-react"
 import { Link } from "react-router-dom";
-import useSignup from '../hooks/useSignup.js';
+import useSignUp from '../hooks/useSignUp.js';
 
 
 const SignUpPage = () => {
@@ -11,7 +11,7 @@ const SignUpPage = () => {
     password:"",
   });
 
-  const {isPending,error,signupMutation} = useSignup();
+  const {isPending,error,signupMutation} = useSignUp();
 
   const handleSignup =(e) =>{
     e.preventDefault()
